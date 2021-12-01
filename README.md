@@ -9,9 +9,9 @@ Component: [https:/github.com/KamyabAlex/custom-react-hooks/blob/master/src/hook
 
 # useEventListener
 
-Src: [https:/github.com/KamyabAlex/custom-react-hooks/blob/master/src/hooks/useDebounce.js](src/hooks/useDebounce.js)
+Src: [https:/github.com/KamyabAlex/custom-react-hooks/blob/master/src/hooks/EventListener.js](src/hooks/useEventListener.js)
 
-Component: [https:/github.com/KamyabAlex/custom-react-hooks/blob/master/src/components/useEventListener.jsx](src/components/EventListener.jsx)
+Component: [https:/github.com/KamyabAlex/custom-react-hooks/blob/master/src/components/EventListener.jsx](src/components/EventListener.jsx)
 
 # useForm
 
